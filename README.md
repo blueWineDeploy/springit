@@ -48,3 +48,8 @@ Add additional notes about how to deploy this on a live system
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
+# Authors
+
+* **Dan Vega** - [TheRealDanVega](http://www.therealdanvega.com)
+
+See also the list of [contributors](https://github.com/) who participated in this project.
